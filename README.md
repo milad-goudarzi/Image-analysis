@@ -1,6 +1,6 @@
 # Image Analysis and Computer Vision Course
 IACV course homework 2023 - Politecnico di Milano <br/>
-The main purpose of this project is to get a deeper understanding of camera parameters, i.e. calibration matrix, and also other concepts like find the horizon line or intersecting lines, conics, etc.
+The main purpose of this project is to get a deeper understanding of camera parameters, i.e. calibration matrix, and also other concepts like finding the horizon line or intersecting lines, conics, etc.
 
 ## Run the code
 To run the code related to first part of the assignment (which includes 5 questions), run main.m.<br/>
